@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
+      "projectUniqueName": "C:\\Users\\cyber\\source\\repos\\aaaaa\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
       "projectName": "TatetiUcema",
-      "projectPath": "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
+      "projectPath": "C:\\Users\\cyber\\source\\repos\\aaaaa\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
       "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\obj\\",
+      "outputPath": "C:\\Users\\cyber\\source\\repos\\aaaaa\\TatetiUcema\\TatetiUcema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
