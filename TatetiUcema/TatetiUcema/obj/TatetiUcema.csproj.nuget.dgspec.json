@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyber\\source\\repos\\TATETIUCEMA\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj": {}
+    "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyber\\source\\repos\\TATETIUCEMA\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj": {
+    "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyber\\source\\repos\\TATETIUCEMA\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
+        "projectUniqueName": "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
         "projectName": "TatetiUcema",
-        "projectPath": "C:\\Users\\cyber\\source\\repos\\TATETIUCEMA\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
+        "projectPath": "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\TatetiUcema.csproj",
         "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyber\\source\\repos\\TATETIUCEMA\\TatetiUcema\\TatetiUcema\\obj\\",
+        "outputPath": "C:\\Users\\cyber\\source\\repos\\Tatetiversion2\\TatetiUcema\\TatetiUcema\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
